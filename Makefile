@@ -1,4 +1,4 @@
-# makefile for Linked List program
+# makefile for Pong program
 
 CC = gcc
 CFLAGS = -O -Wall 
